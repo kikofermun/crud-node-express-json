@@ -1,0 +1,25 @@
+{
+  "name": "crud",
+  "description": "1. Clonar el repositorio. 2. En la consola de comandos, en la carpeta donde se ha clonado el repositorio, ejecutar el comando __npm install__. 3. En la consola de comandos, en la carpeta donde se ha clonado el repositorio, ejecutar el comando __nodemon__. 4. En un navegador, visitar la url __http://localhost:3000__.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikofermun/crud-node-express-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikofermun/crud-node-express-json/issues"
+  },
+  "homepage": "https://github.com/kikofermun/crud-node-express-json#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
