@@ -1,0 +1,13 @@
+{
+    "add": "add",
+    "add_new": "add a new project",
+    "name": "name",
+    "start_date": "start date",
+    "end_date": "end date",
+    "update": "update",
+    "delete": "delete",
+    "cancel": "cancel",
+    "edit": "edit",
+    "are_you_sure": "are you sure?",
+    "go_back": "go back"
+}

@@ -1,0 +1,13 @@
+{
+    "add": "añadir",
+    "add_new": "añadir un nuevo proyecto",
+    "name": "nombre",
+    "start_date": "fecha de inicio",
+    "end_date": "fecha de fin",
+    "update": "actualizar",
+    "delete": "borrar",
+    "cancel": "cancelar",
+    "edit": "editar",
+    "are_you_sure": "¿estás seguro?",
+    "go_back": "volver"
+}
